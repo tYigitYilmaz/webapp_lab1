@@ -11,4 +11,4 @@ public class MainController {
         private String helloUser(@PathVariable String name){
             return "Hello "+ name;
         }
-    }
+}
